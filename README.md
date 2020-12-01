@@ -1,5 +1,5 @@
 # Media Browser
-Introduction
+## Introduction
 Media Browser is freeware used for playing video files, playing audio files and displaying
 images in a number of formats. Media Browser based on JavaFX and Media Browser uses
 JavaFX 2.2 Media library. Media Browser supports all operating systems which can run Java
