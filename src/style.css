@@ -1,0 +1,14 @@
+.menu-item{
+  -fx-background-color: darkorange;
+}
+.menu-item .label{  
+  -fx-font: 15px bold;
+  -fx-text-fill: #fff;
+}
+.slider{
+  -fx-control-inner-background: black;
+}
+.hbox{
+  -fx-border: 1.6em;
+  -fx-border-color:darkorange;
+}
