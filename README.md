@@ -1,4 +1,4 @@
-# OOAD-Project
+# Media Browser
 Introduction
 Media Browser is freeware used for playing video files, playing audio files and displaying
 images in a number of formats. Media Browser based on JavaFX and Media Browser uses
