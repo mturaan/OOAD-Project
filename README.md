@@ -10,3 +10,8 @@ MPEG-4 multimedia container with Advanced Audio Coding (AAC) audio
 *  Video: FLV containing VP6 video and MP3 audio; MPEG-4 multimedia container with
 H.264/AVC (Advanced Video Coding) video compression
 *  Image: BMP, GIF, JPEG, PNG
+##  Current System
+The current system of is that it is a media browser with an infrastructure that can play music
+and display images. We will determine the functionality and additional features of system
+ourselves and arrange this according to the expectations of the users. Our addictional
+features include creating playlists, music genre categorization etc. it will be.
